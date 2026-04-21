@@ -1,1 +1,2 @@
-this is the context file
+import { createContext } from "react";
+const context = createContext(null);
